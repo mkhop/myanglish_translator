@@ -1,1 +1,3 @@
 This project will help turn your Myanglish words into a series of Burmese words. This is a collaboration project between two developers where one will work the front end and the other handles the backend of the project. 
+
+This is the second git push to see if things are working correctly.
